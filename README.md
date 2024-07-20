@@ -1,5 +1,5 @@
 
-<img src='cover.jpeg'>
+<img src='Muhammad Danish.png'>
 <h1 align="center">Hi 👋, I'm Muhammad Danish</h1>
 <h3 align="center">My passion for web development started from my hunger to make things.</h3>
 <hr> 
